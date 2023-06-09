@@ -1,6 +1,18 @@
 
-function sayHello(name) {
-    console.log('Hello' + name);
-}
+// function sayHello(name) {
+//     console.log('Hello' + name);
+// }
 
-sayHello('Yajnesh')
+// // sayHello('Yajnesh')
+// console.log(window); 
+
+// console.log();
+
+// setTimeout()
+// clearTimeout();
+
+// setInterval()
+// clearInterval();
+
+var message = '';
+global.setTimeout
